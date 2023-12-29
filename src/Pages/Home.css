@@ -1,0 +1,30 @@
+.title_box{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 0.3rem;
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    font-family: 'Roboto Slab', serif;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.tab{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.tab_label{
+    color:grey;
+}
+
+.tab_label_On{
+    color: #4B56D2;
+}
+
+.auth_box{
+    background-color: rgba(255,255,255,0.7);
+    background-blend-mode: lighten;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200;300&family=Lora&family=Noto+Sans:wght@200;300&family=PT+Mono&family=Raleway&family=Roboto+Slab&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.app{
+    min-height: 100vh;
+    background-image: url("https://img.freepik.com/premium-photo/drawing-creative-colorful-speech-bubbles_670147-6065.jpg?w=1380");
+    background-size: cover;
+    background-position: center;
+    /* increasing opacity of backhround image */
+    background-color: rgba(255,255,255,0.5);
+    background-blend-mode: lighten;
+    display: flex;
+}
